@@ -2,6 +2,9 @@
 let username="Brian";
 let password="12345";
 let email="giga.brian@gmail.com"
+console.log(username)
+console.log(password)
+console.log(email)
 //Create an array of 5 counties and log the second county using its index
 let counties=["Nairobi","Mombasa","Kisumu","Nakuru","Eldoret"];
 console.log(counties[1])
